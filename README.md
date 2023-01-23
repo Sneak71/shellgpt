@@ -1,6 +1,6 @@
 <h1>SHELLGPT</h1>
 
-ChatCPT for shell using openai API
+ChatCPT client for terminal, using the openAI API
 
 <img src="banner.png" width="100%"/>
  
