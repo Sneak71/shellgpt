@@ -9,4 +9,4 @@ ChatCPT client for terminal, using the openAI API
 
  create an <a href="https://beta.openai.com/account/api-keys">openAI API KEY</a> and paste it into the script!
          
-         sudo python3 shellgpt.py
+         python3 shellgpt.py
